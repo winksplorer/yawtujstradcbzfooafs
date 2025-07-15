@@ -19,7 +19,7 @@ yawtujstradcbzfooafs expects the following:
 - A file dialog. Just use this and don't think about it.
 
 ```html
-`<input type="file" id="cbz-file-dialog" accept="application/vnd.comicbook+zip" />`
+<input type="file" id="cbz-file-dialog" accept="application/vnd.comicbook+zip" />
 ```
 
 - A load button. Basically, just call `cbz.start()` eventually. You can make it a separate button like this.
